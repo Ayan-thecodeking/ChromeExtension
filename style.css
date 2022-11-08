@@ -19,3 +19,11 @@ button {
     border: none;
     font-weight: bold;
 }
+
+ul{
+    list-style-type: none;
+}
+
+a{
+    color: green;
+}
