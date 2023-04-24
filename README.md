@@ -8,7 +8,7 @@ you can use this to save different links of tabs
 - Clone the repository to your local machine.
 - Open Google Chrome and navigate to the Extensions settings page by entering "chrome://extensions/" in the address bar.
 - Click on "Load unpacked" button and select the folder where the cloned repository resides.
-- The extension will be added to your browser, and you can now start using it.
+- The extension will be added to your browser, and you can now start using it
 
 ### Contributing Guidelines:
 
